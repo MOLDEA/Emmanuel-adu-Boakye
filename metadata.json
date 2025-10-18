@@ -1,0 +1,5 @@
+{
+  "name": "Ezzmax Enterprise Marketplace",
+  "description": "A concept UI for the Ezzmax Enterprise Marketplace, an online e-commerce platform for Africa, inspired by Jumia. It includes a business strategy AI assistant powered by the Gemini API to answer questions about the business plan.",
+  "requestFramePermissions": []
+}
